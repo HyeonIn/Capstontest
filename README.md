@@ -28,7 +28,6 @@ As the amount of network traffic increases due to the information society, the r
 mkyoon@kookmin.ac.kr
 ```
 <br>
-
 ## 팀명 : Do Mo!(Do Monitoring!)
 
 ### 팀원 소개
@@ -43,6 +42,7 @@ Project Leader
 논문 분석
 
 plmokn1007@kookmin.ac.kr
+
 ```
 
 <img align="left" width="15%" height="15%" src="https://i.imgur.com/ww2devO.png"></img>
@@ -53,6 +53,7 @@ plmokn1007@kookmin.ac.kr
 피쳐 엔지니어링
 
 rlatjddms9736@kookmin.ac.kr
+
 ```
 
 <img align="left" width="15%" height="15%" src="https://i.imgur.com/ww2devO.png"></img>
@@ -63,6 +64,7 @@ rlatjddms9736@kookmin.ac.kr
 웹 서버-모델 연동
 
 yms04089@kookmin.ac.kr
+
 ```
 
 <img align="left" width="15%" height="15%" src="https://i.imgur.com/ww2devO.png"></img>
@@ -73,6 +75,7 @@ ELK 구축 및 문서 작업
 서버 안정화
 
 gusdlsdlek@kookmin.ac.kr
+
 ```
 
 <img align="left" width="15%" height="15%" src="https://i.imgur.com/ww2devO.png"></img>
@@ -82,6 +85,7 @@ gusdlsdlek@kookmin.ac.kr
 웹-ELK 연동
 
 sally159357@kookmin.ac.kr
+
 ```
 
 
