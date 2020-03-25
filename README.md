@@ -43,7 +43,7 @@ Project Leader
 plmokn1007@kookmin.ac.kr
 
 ```
-
+<br/>
 <img align="left" width="15%" height="15%" src="https://i.imgur.com/ww2devO.png"></img>
 ```
 김성은
