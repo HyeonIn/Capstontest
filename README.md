@@ -26,7 +26,7 @@ As the amount of network traffic increases due to the information society, the r
 mkyoon@kookmin.ac.kr
 ```
 
-<img align="left" width="16%" height="16%" src="https://i.imgur.com/ww2devO.png"></img>
+<img align="left" width="20%" height="20%" src="https://i.imgur.com/ww2devO.png"></img>
 ```
 전하훈
 
@@ -37,7 +37,7 @@ Project Leader
 plmokn1007@kookmin.ac.kr
 ```
 
-<img align="left" width="16%" height="16%" src="https://i.imgur.com/ww2devO.png"></img>
+<img align="left" width="20%" height="20%" src="https://i.imgur.com/ww2devO.png"></img>
 ```
 김성은
 
@@ -47,7 +47,7 @@ plmokn1007@kookmin.ac.kr
 rlatjddms9736@kookmin.ac.kr
 ```
 
-<img align="left" width="16%" height="16%" src="https://i.imgur.com/ww2devO.png"></img>
+<img align="left" width="20%" height="20%" src="https://i.imgur.com/ww2devO.png"></img>
 ```
 최운호
 
@@ -57,7 +57,7 @@ rlatjddms9736@kookmin.ac.kr
 yms04089@kookmin.ac.kr
 ```
 
-<img align="left" width="16%" height="16%" src="https://i.imgur.com/ww2devO.png"></img>
+<img align="left" width="20%" height="20%" src="https://i.imgur.com/ww2devO.png"></img>
 ```
 최현인
 
@@ -67,7 +67,7 @@ ELK 구축 및 문서 작업
 gusdlsdlek@kookmin.ac.kr
 ```
 
-<img align="left" width="16%" height="16%" src="https://i.imgur.com/ww2devO.png"></img>
+<img align="left" width="20%" height="20%" src="https://i.imgur.com/ww2devO.png"></img>
 ```
 허윤서
 웹 프론트 구축
