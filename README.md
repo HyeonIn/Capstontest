@@ -27,7 +27,7 @@ mkyoon@kookmin.ac.kr
 ```
 <br>
 
-<img align="left" width="20%" height="20%" src="http://blog.naver.com/PostView.nhn?blogId=xiipego&logNo=221436390743&categoryNo=97&parentCategoryNo=0#"></img>
+<img align="left" width="20%" height="20%" src="https://imgur.com/6yStOtY"></img>
 ```
 전하훈
 
@@ -35,19 +35,20 @@ Project Leader
 머신러닝 모델 설계 및 구축
 논문 분석
 
-@kookmin.ac.kr
+plmokn1007@kookmin.ac.kr
 ```
 
-<img align="left" width="20%" height="20%" src="http://blog.naver.com/PostView.nhn?blogId=xiipego&logNo=221436390743&categoryNo=97&parentCategoryNo=0#"></img>
+<img align="left" width="20%" height="20%" src="https://imgur.com/6yStOtY"></img>
 ```
 김성은
 
 데이터 분석 및 시각화
 피쳐 엔지니어링
 
-@kookmin.ac.kr
+rlatjddms9736@kookmin.ac.kr
 ```
-<img align="left" width="20%" height="20%" src="http://blog.naver.com/PostView.nhn?blogId=xiipego&logNo=221436390743&categoryNo=97&parentCategoryNo=0#"></img>
+
+<img align="left" width="20%" height="20%" src="https://imgur.com/6yStOtY"></img>
 ```
 최운호
 
@@ -57,7 +58,7 @@ Project Leader
 yms04089@kookmin.ac.kr
 ```
 
-<img align="left" width="20%" height="20%" src="http://blog.naver.com/PostView.nhn?blogId=xiipego&logNo=221436390743&categoryNo=97&parentCategoryNo=0#"></img>
+<img align="left" width="20%" height="20%" src="https://imgur.com/6yStOtY"></img>
 ```
 최현인
 
@@ -67,11 +68,11 @@ ELK 구축 및 문서 작업
 gusdlsdlek@kookmin.ac.kr
 ```
 
-<img align="left" width="20%" height="20%" src="http://blog.naver.com/PostView.nhn?blogId=xiipego&logNo=221436390743&categoryNo=97&parentCategoryNo=0#"></img>
+<img align="left" width="20%" height="20%" src="https://imgur.com/6yStOtY"></img>
 ```
 허윤서
 웹 프론트 구축
 웹-ELK 연동
 
-@kookmin.ac.kr
+sally159357@kookmin.ac.kr
 ```
