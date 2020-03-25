@@ -29,7 +29,7 @@ mkyoon@kookmin.ac.kr
 ```
 
 ## 팀명 : Do Mo!(Do Monitoring!)
-### 팀원 소개
+## 팀원 소개
 
 <img align="left" width="15%" height="15%" src="https://i.imgur.com/ww2devO.png"></img>
 ```
