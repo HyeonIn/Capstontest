@@ -1,10 +1,9 @@
-![Imgur](https://i.imgur.com/JlF1Rgj.png)
-
-# SEMO(Security Monitoring Platform)
+# 프로젝트 소개
+<br>
 
 <img align="left" width="20%" height="20%" src="https://i.imgur.com/JlF1Rgj.png">
+## SEMO(Security Monitoring Platform)
 
-## 프로젝트 소개
 
 정보화 시대를 맞아 네트워크 트래픽의 양이 방대해지면서 보안분야에서의 보안 관제의 역할이 더욱 중요해지고 있다. <br>
 ![Imgur](https://i.imgur.com/JnbwatJ.png)
