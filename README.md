@@ -34,37 +34,36 @@ mkyoon@kookmin.ac.kr
 
 <img align="left" width="15%" height="15%" src="https://i.imgur.com/ww2devO.png"></img>
 ```
-전하훈
 
-Project Leader
-머신러닝 모델 설계 및 구축
-논문 분석
+전하훈 (Project Leader)
 
-plmokn1007@kookmin.ac.kr
+Student ID : 20171697
+E-Mail : plmokn1007@kookmin.ac.kr
+Role : 머신러닝 모델 설계 및 구축, 논문 분석
 
 ```
 
 
 <img align="left" width="15%" height="15%" src="https://i.imgur.com/ww2devO.png"></img>
 ```
+
 김성은
 
-데이터 분석 및 시각화
-피쳐 엔지니어링
-
-rlatjddms9736@kookmin.ac.kr
+Student ID : 
+E-Mail : rlatjddms9736@kookmin.ac.kr
+Role : 데이터 분석 및 시각화, 피쳐 엔지니어링
 
 ```
 
 
 <img align="left" width="15%" height="15%" src="https://i.imgur.com/ww2devO.png"></img>
 ```
+
 최운호
 
-웹 서버 구축
-웹 서버-모델 연동
-
-yms04089@kookmin.ac.kr
+Student ID : 20171711
+E-Mail : yms04089@kookmin.ac.kr
+Role : 웹 서버 구축, 웹 서버-모델 연동
 
 ```
 
@@ -73,10 +72,9 @@ yms04089@kookmin.ac.kr
 ```
 최현인
 
-ELK 구축 및 문서 작업
-서버 안정화
-
-gusdlsdlek@kookmin.ac.kr
+Student ID : 20171716
+E-Mail : gusdlsdlek@kookmin.ac.kr
+Role : ELK 구축 및 문서 작업, 서버 안정화
 
 ```
 
@@ -85,10 +83,9 @@ gusdlsdlek@kookmin.ac.kr
 ```
 허윤서
 
-웹 프론트 구축
-웹-ELK 연동
-
-sally159357@kookmin.ac.kr
+Student ID : 
+E-Mail : sally159357@kookmin.ac.kr
+Role : 웹 프론트 구축, 웹-ELK 연동
 
 ```
 
