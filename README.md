@@ -1,5 +1,5 @@
 # SEMO(Security Monitoring Platform)
-2020년 국민대학교 소프트웨어학부 캡스톤 디자인 프로젝트
+2020년 국민대학교 소프트웨어학부 캡스톤 디자인 프로젝트 <br>
 https://github.com/kookmin-sw/capstone-2020-7
 
 
