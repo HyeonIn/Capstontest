@@ -4,7 +4,7 @@
 
 # 프로젝트 소개
 
-<img align="left" width="100%" height="100%" src="https://i.imgur.com/JlF1Rgj.png"></img>
+<img align="left" width="30%" height="30%" src="https://i.imgur.com/JlF1Rgj.png"></img>
 ## SEMO(Security Monitoring Platform)
 
 
