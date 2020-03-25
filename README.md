@@ -17,6 +17,8 @@ As the amount of network traffic increases due to the information society, the r
 
 # 팀 소개
 
+## 팀명 : Do Mo!(Do Monitoring!)
+### 지도 교수님
 <img align="left" width="20%" height="15%" src="https://wfile.kookmin.ac.kr/data/www/profile/2010/05/5c5e79ff50d88e225749756b6403b56d.gif"></img>
 ```
 윤명근 교수님
@@ -26,7 +28,7 @@ As the amount of network traffic increases due to the information society, the r
 
 mkyoon@kookmin.ac.kr
 ```
-
+### 팀원 소개
 <img align="left" width="20%" height="20%" src="https://i.imgur.com/ww2devO.png"></img>
 ```
 전하훈
