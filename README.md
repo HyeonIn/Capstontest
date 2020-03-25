@@ -43,7 +43,8 @@ Project Leader
 plmokn1007@kookmin.ac.kr
 
 ```
-<br/>
+
+
 <img align="left" width="15%" height="15%" src="https://i.imgur.com/ww2devO.png"></img>
 ```
 김성은
@@ -54,6 +55,7 @@ plmokn1007@kookmin.ac.kr
 rlatjddms9736@kookmin.ac.kr
 
 ```
+
 
 <img align="left" width="15%" height="15%" src="https://i.imgur.com/ww2devO.png"></img>
 ```
@@ -66,6 +68,7 @@ yms04089@kookmin.ac.kr
 
 ```
 
+
 <img align="left" width="15%" height="15%" src="https://i.imgur.com/ww2devO.png"></img>
 ```
 최현인
@@ -76,6 +79,7 @@ ELK 구축 및 문서 작업
 gusdlsdlek@kookmin.ac.kr
 
 ```
+
 
 <img align="left" width="15%" height="15%" src="https://i.imgur.com/ww2devO.png"></img>
 ```
