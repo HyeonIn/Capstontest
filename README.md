@@ -27,44 +27,47 @@ mkyoon@kookmin.ac.kr
 ```
 <br>
 
-<img align="left" width="30%" height="30%" src="https://i.imgur.com/JlF1Rgj.png"></img>
+<img align="left" width="20%" height="20%" src="http://blog.naver.com/PostView.nhn?blogId=xiipego&logNo=221436390743&categoryNo=97&parentCategoryNo=0#"></img>
 ```
 전하훈
+
 Project Leader
-Design and build a machine learning model
-Thesis analysis
+머신러닝 모델 설계 및 구축
+논문 분석
 
 @kookmin.ac.kr
 ```
 
-<img align="left" width="30%" height="30%" src="https://i.imgur.com/JlF1Rgj.png"></img>
+<img align="left" width="20%" height="20%" src="http://blog.naver.com/PostView.nhn?blogId=xiipego&logNo=221436390743&categoryNo=97&parentCategoryNo=0#"></img>
 ```
 김성은
-Data analysis and visualization
-Feature Engineering
+
+데이터 분석 및 시각화
+피쳐 엔지니어링
 
 @kookmin.ac.kr
 ```
-
-<img align="left" width="30%" height="30%" src="https://i.imgur.com/JlF1Rgj.png"></img>
+<img align="left" width="20%" height="20%" src="http://blog.naver.com/PostView.nhn?blogId=xiipego&logNo=221436390743&categoryNo=97&parentCategoryNo=0#"></img>
 ```
 최운호
+
 웹 서버 구축
 웹 서버-모델 연동
 
-@kookmin.ac.kr
+yms04089@kookmin.ac.kr
 ```
 
-<img align="left" width="30%" height="30%" src="https://i.imgur.com/JlF1Rgj.png"></img>
+<img align="left" width="20%" height="20%" src="http://blog.naver.com/PostView.nhn?blogId=xiipego&logNo=221436390743&categoryNo=97&parentCategoryNo=0#"></img>
 ```
 최현인
+
 ELK 구축 및 문서 작업
 서버 안정화
 
-@kookmin.ac.kr
+gusdlsdlek@kookmin.ac.kr
 ```
 
-<img align="left" width="30%" height="30%" src="https://i.imgur.com/JlF1Rgj.png"></img>
+<img align="left" width="20%" height="20%" src="http://blog.naver.com/PostView.nhn?blogId=xiipego&logNo=221436390743&categoryNo=97&parentCategoryNo=0#"></img>
 ```
 허윤서
 웹 프론트 구축
