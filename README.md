@@ -16,7 +16,7 @@ As the amount of network traffic increases due to the information society, the r
 
 # 팀 소개
 
-<img align="left" width="30%" height="30%" src="https://i.imgur.com/JlF1Rgj.png"></img>
+<img align="left" width="20%" height="15%" src="https://wfile.kookmin.ac.kr/data/www/profile/2010/05/5c5e79ff50d88e225749756b6403b56d.gif"></img>
 ```
 윤명근 교수님
 
@@ -25,6 +25,7 @@ As the amount of network traffic increases due to the information society, the r
 
 mkyoon@kookmin.ac.kr
 ```
+<br>
 
 <img align="left" width="30%" height="30%" src="https://i.imgur.com/JlF1Rgj.png"></img>
 ```
