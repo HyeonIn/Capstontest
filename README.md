@@ -19,7 +19,7 @@ As the amount of network traffic increases due to the information society, the r
 
 ## 프로젝트 소개영상
 
-[![소개영상 링크](https://i.imgur.com/lhcCevZ.png)](https://youtube.com/)
+[![소개영상 링크](https://i.imgur.com/lhcCevZ.png)](https://www.youtube.com/watch?v=KdTk3ibeTUE&t=20s/)
 # 팀 소개
 
 ## 지도 교수님
@@ -101,6 +101,8 @@ Role : 웹 프론트 구축, 웹-ELK 연동
 - [DeepLog: Anomaly Detection and Diagnosis from System Logs through Deep Learning](https://dl.acm.org/doi/10.1145/3133956.3134015)
 - [ATTACK2VEC: Leveraging Temporal Word Embeddings to Understand the Evolution of Cyberattacks](https://arxiv.org/abs/1905.12590)
 - [Tiresias: Predicting Security Events Through Deep Learning](https://dl.acm.org/doi/10.1145/3243734.3243811)
+- [CNN and RNN based payload classification methods for attack detection](https://www.sciencedirect.com/science/article/abs/pii/S0950705118304325#b14)
+
 ## Contatc Us
 ``` Email : plmokn1007@kookmin.ac.kr ```
 
