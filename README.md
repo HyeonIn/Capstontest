@@ -8,8 +8,10 @@ https://github.com/kookmin-sw/capstone-2020-7
 <img align="left" width="30%" height="30%" src="https://i.imgur.com/JlF1Rgj.png"></img>
 **프로젝트 명 : SEMO(Security Monitoring Platform)**
 ---
-정보화 시대를 맞아 네트워크 트래픽의 양이 방대해지면서 보안분야에서의 보안 관제의 역할이 더욱 중요해지고 있다. SEMO는 이러한 문제를 해결하고자 보안관제사들이 자동 처리 규칙들을 업데이트하는 데 도움을 주기 위해서 고안된 프로젝트이다. 수집된 로그데이터를 받아서 딥러닝을 통해 정오탐 판별을 한 후 분석하여 사용자에게 분석결과를 보여주고 재학습을 가능하게 하는 것이 이 프로젝트의 목표이다.<br><br>
-As the amount of network traffic increases due to the information society, the role of security control is more important. Beacause of these problems, SEMO can help security controllers easily update automatic processing rules. First, accumulate Log Data and discriminate FP. Second, send analysis processed Data result to users. Third, Make possible to re-learning. All of these are goals of this project.
+정보화 시대를 맞아 네트워크 트래픽의 양이 방대해지면서 보안분야에서의 보안 관제의 역할이 더욱 중요해지고 있다. SeMo는 이러한 문제를 해결하고자 보안관제사들이 자동 처리 규칙들을 업데이트하는 데 도움을 주기 위해서 고안된 프로젝트이다. 수집된 로그데이터를 받아서 딥러닝을 통해 정탐과 오탐 여부를 판별한 후 분석하여 사용자에게 분석결과를 시각화 하여 웹을 통해 보여준다.<br><br>
+
+### Abstract
+As the amount of network traffic increases due to the information society, the role of security control is more important. Beacause of these problems, SEMO can help security controllers easily update automatic processing rules. 
 
   
 **프로젝트 시나리오**
@@ -32,7 +34,7 @@ mkyoon@kookmin.ac.kr
 ## 팀명 : Do Mo!(Do Monitoring!)
 ## 팀원 소개
 
-<img align="left" width="15%" height="15%" src="https://i.imgur.com/ww2devO.png"></img>
+<img align="left" width="15%" height="15%" src="https://i.imgur.com/O6FLiUL.jpg"></img>
 ```
 
 전하훈 (Project Leader)
@@ -56,7 +58,7 @@ Role : 데이터 분석 및 시각화, 피쳐 엔지니어링
 ```
 
 
-<img align="left" width="15%" height="15%" src="https://i.imgur.com/ww2devO.png"></img>
+<img align="left" width="15%" height="15%" src="https://i.imgur.com/BBtY9sZ.jpg"></img>
 ```
 
 최운호
@@ -68,7 +70,7 @@ Role : 웹 서버 구축, 웹 서버-모델 연동
 ```
 
 
-<img align="left" width="15%" height="15%" src="https://i.imgur.com/ww2devO.png"></img>
+<img align="left" width="15%" height="15%" src="https://i.imgur.com/cpi6IPu.jpg"></img>
 ```
 최현인
 
@@ -79,7 +81,7 @@ Role : ELK 구축 및 문서 작업, 서버 안정화
 ```
 
 
-<img align="left" width="15%" height="15%" src="https://i.imgur.com/ww2devO.png"></img>
+<img align="left" width="15%" height="15%" src="https://i.imgur.com/Cwoh5Fl.png"></img>
 ```
 허윤서
 
