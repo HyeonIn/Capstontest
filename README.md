@@ -97,12 +97,11 @@ Role : 웹 프론트 구축, 웹-ELK 연동
 
 ## 참조(Reference)
 
-#### URL
-- url1
-- url2
 #### PAPER
-- 참고 논문 제목
-
+- [ADELE: Anomaly Detection from Event Log Empiricism](https://ieeexplore.ieee.org/document/8486257)
+- [DeepLog: Anomaly Detection and Diagnosis from System Logs through Deep Learning](https://dl.acm.org/doi/10.1145/3133956.3134015)
+- [ATTACK2VEC: Leveraging Temporal Word Embeddings to Understand the Evolution of Cyberattacks](https://arxiv.org/abs/1905.12590)
+- [Tiresias: Predicting Security Events Through Deep Learning](https://dl.acm.org/doi/10.1145/3243734.3243811)
 ## Contatc Us
 ``` Email : plmokn1007@kookmin.ac.kr ```
 
