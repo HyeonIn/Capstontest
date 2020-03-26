@@ -19,7 +19,7 @@ As the amount of network traffic increases due to the information society, the r
 
 ## 프로젝트 소개영상
 
-[[텍스트](https://i.imgur.com/kNY8Rs3.png)](https://youtube.com/)
+[![텍스트](https://i.imgur.com/kNY8Rs3.png)](https://youtube.com/)
 # 팀 소개
 
 ## 지도 교수님
