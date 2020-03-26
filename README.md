@@ -34,7 +34,7 @@ mkyoon@kookmin.ac.kr
 ## 팀명 : Do Mo!(Do Monitoring!)
 ## 팀원 소개
 
-<img align="left" width="17%" height="17%" src="https://i.imgur.com/O6FLiUL.jpg"></img>
+<img align="left" width="19%" height="19%" src="https://i.imgur.com/O6FLiUL.jpg"></img>
 ```
 
 전하훈 (Project Leader)
@@ -46,7 +46,7 @@ Role : 머신러닝 모델 설계 및 구축, 논문 분석
 ```
 
 
-<img align="left" width="17%" height="17%" src="https://i.imgur.com/ww2devO.png"></img>
+<img align="left" width="19%" height="19%" src="https://i.imgur.com/ww2devO.png"></img>
 ```
 
 김성은
@@ -58,7 +58,7 @@ Role : 데이터 분석 및 시각화, 피쳐 엔지니어링
 ```
 
 
-<img align="left" width="17%" height="17%" src="https://i.imgur.com/BBtY9sZ.jpg"></img>
+<img align="left" width="19%" height="19%" src="https://i.imgur.com/BBtY9sZ.jpg"></img>
 ```
 
 최운호
@@ -70,7 +70,7 @@ Role : 웹 서버 구축, 웹 서버-모델 연동
 ```
 
 
-<img align="left" width="17%" height="17%" src="https://i.imgur.com/cpi6IPu.jpg"></img>
+<img align="left" width="19%" height="19%" src="https://i.imgur.com/cpi6IPu.jpg"></img>
 ```
 최현인
 
@@ -81,7 +81,7 @@ Role : ELK 구축 및 문서 작업, 서버 안정화
 ```
 
 
-<img align="left" width="17%" height="17%" src="https://i.imgur.com/Cwoh5Fl.png"></img>
+<img align="left" width="19%" height="19%" src="https://i.imgur.com/Cwoh5Fl.png"></img>
 ```
 허윤서
 
