@@ -14,10 +14,12 @@ https://github.com/kookmin-sw/capstone-2020-7
 As the amount of network traffic increases due to the information society, the role of security control is more important. Beacause of these problems, SEMO can help security controllers easily update automatic processing rules. Receive collected log data, determine whether or not the data were detected through deep learning, analyze it, visualize the analysis results to the user, and show it to the user via the web.
 
   
-### 프로젝트 시나리오
+## 프로젝트 시나리오
 <img src="https://i.imgur.com/MamIpeD.png">
 
+## 프로젝트 소개영상
 
+[(https://i.imgur.com/kNY8Rs3.png)](https://youtube.com/)
 # 팀 소개
 
 ## 지도 교수님
