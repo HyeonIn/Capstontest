@@ -70,7 +70,7 @@ Role : 웹 서버 구축, 웹 서버-모델 연동
 ```
 
 
-<img align="left" width="20%" height="20%" src="https://i.imgur.com/cpi6IPu.jpg"></img>
+<img align="left" width="100" height="100" src="https://i.imgur.com/cpi6IPu.jpg"></img>
 ```
 
 최현인
